@@ -4,7 +4,7 @@ four.meme token bundler bot
 
 ## Features
 
-- 🚀 **X Wallet Bundling**: Automatically generates and manages 50 wallets for transaction bundling
+- 🚀 **X Wallet Bundling**: Automatically generates and manages 1 ~ 200 wallets for transaction bundling
 - 💰 **Main Wallet Management**: Uses main wallet for funding and gathering BNB
 - 🎯 **Configurable Buy Amounts**: Random or fixed buy amounts within specified ranges
 - ⛽ **Gas Optimization**: Configurable gas prices and limits
